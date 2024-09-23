@@ -8,11 +8,28 @@ body {
 * {
 	box-sizing: border-box;
 }
+#header-nav {
+	font-size: 1.5em;
+	background-color: lightgray;
+	border-radius: 0;
+	border: 0;
+}
+
 
 .header-nav-folder-content > * {
-	background-color: lightgoldenrodyellow;
+	background-color: whitesmoke;
     border-bottom: 1px solid black;
     padding-top: 8px;
     padding-bottom: 8px;
-    /*margin-bottom: -8px;*/
 }
+
+#food-menu {
+	background-color: lightslategrey;
+}
+.panel {
+  margin-bottom: 0px;
+  background-color: lightslategrey;
+  border: 1px solid transparent;
+  border-radius: 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
