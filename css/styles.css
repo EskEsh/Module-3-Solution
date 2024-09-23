@@ -4,3 +4,15 @@ body {
 	font-size: 16px;
 	font-family: glyphicons-halflings-regular;
 }
+
+* {
+	box-sizing: border-box;
+}
+
+.header-nav-folder-content > * {
+	background-color: lightgoldenrodyellow;
+    border-bottom: 1px solid black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    /*margin-bottom: -8px;*/
+}
