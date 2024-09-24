@@ -1,8 +1,6 @@
 body {
-	text-align: justify;
-	background-color: white;
-	font-size: 16px;
-	font-family: 'Oxygen', glyphicons-halflings-regular, sans-serif;
+  font-size: 16px;
+  font-family: 'Oxygen', 'Lora' sans-serif;
 }
 
 * {
@@ -11,17 +9,19 @@ body {
 
 .navbar {
 	background-color: #adb8c2;
+	border-radius: 0;
+	border: 0;
 }
 
 #header-nav {
-	font-size: 2em;
+	background-color: #adb8c2;
+	font-size: 1.5em;
 	color: black;
-	border-radius: 0;
+	padding-left: 25px;
 }
 
-
 .header-nav-folder-content > * {
-	background-color: whitesmoke;
+	background-color: lightgoldenrodyellow;
     border-bottom: 1px solid black;
     padding-top: 8px;
     padding-bottom: 8px;
@@ -29,10 +29,9 @@ body {
 
 #food-menu {
 	background-color: #bbc4cc;
-}
-
-.panel {
-  border-radius: 0px;
-  margin-top: 15px;
-  margin-bottom: 15px;
+	padding-top: 15px;
+	padding-right: 25px;
+	padding-bottom: 15px;
+	padding-left: 30px;
+	margin: 25px;
 }
