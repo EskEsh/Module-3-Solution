@@ -2,7 +2,7 @@ body {
 	text-align: justify;
 	background-color: white;
 	font-size: 16px;
-	font-family: glyphicons-halflings-regular;
+	font-family: 'Oxygen', glyphicons-halflings-regular, sans-serif;
 }
 
 * {
