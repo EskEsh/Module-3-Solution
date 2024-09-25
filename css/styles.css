@@ -1,6 +1,7 @@
 body {
   font-size: 16px;
   font-family: 'Oxygen', 'Lora' sans-serif;
+  border: 1px solid black;
 }
 
 * {
@@ -11,6 +12,10 @@ body {
 	background-color: #adb8c2;
 	border-radius: 0;
 	border: 0;
+}
+
+.navbar-nav {
+	margin:0 -15px !important;
 }
 
 #header-nav {
