@@ -21,14 +21,14 @@ body {
 }
 
 .header-nav-folder-content > * {
-	background-color: lightgoldenrodyellow;
+	background-color: #c4ccd4;
     border-bottom: 1px solid black;
     padding-top: 8px;
     padding-bottom: 8px;
 }
 
 #food-menu {
-	background-color: #bbc4cc;
+	background-color: #c2c2ad;
 	padding-top: 15px;
 	padding-right: 25px;
 	padding-bottom: 15px;
